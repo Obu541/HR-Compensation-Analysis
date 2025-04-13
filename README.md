@@ -3,6 +3,8 @@
 
 This project explores gender-based pay equity and compensation trends across departments and job levels using a mock HR dataset. I developed three independent solutions using Tableau, Python, and SQL to analyze salary distribution, representation, and potential pay gaps.
 
+![Project Overview](dashboard_image.png)
+
 ---
 
 ## 🚀 Project Overview
